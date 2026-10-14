@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Social",
+  "description": "A modern, minimalist social media platform with user profiles, rich posts, threaded comments, and a real-time like and follow system powered by an Express.js backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
